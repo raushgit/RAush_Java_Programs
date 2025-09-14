@@ -22,4 +22,5 @@ public class ArrayListJava {
         System.out.println(list);
         System.out.println("First item: " + list.get(0));
     }
+
 }
