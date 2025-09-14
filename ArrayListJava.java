@@ -1,4 +1,4 @@
-x/*
+/*
 
 Array List in Java :-
 he array list class in java is a part of collection framework and find in java.util package 
@@ -24,4 +24,5 @@ public class ArrayListJava {
     }
 
 }
+
 
